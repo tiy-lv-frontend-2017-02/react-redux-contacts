@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "fname": "Michael",
+      "lname": "Sweeney",
+      "email": "mike.sweeney@thesweeney.com",
+      "phone": "(702) 867-5309",
+      "city": "Las Vegas",
+      "state": "NV",
+      "img": "",
+      "favoriteSaying": ""
+    },
+    {
+      "id": 2,
+      "fname": "Charles",
+      "lname": "Schwab",
+      "email": "charles@schwab.com",
+      "phone": "(702) 867-5309",
+      "city": "Las Vegas",
+      "state": "NV",
+      "img": "",
+      "favoriteSaying": ""
+    },
+    {
+      "fname": "Johnny",
+      "lname": "Sunshine",
+      "email": "johnny@sunshine.com",
+      "phone": "7025551212",
+      "city": "Las Vegas",
+      "state": "NV",
+      "id": 3
+    },
+    {
+      "fname": "asdf",
+      "lname": "asdf",
+      "email": "asdf",
+      "phone": "asdf",
+      "city": "asdf",
+      "state": "asdf",
+      "id": 4
+    }
+  ]
+}
